@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -39,6 +40,7 @@
 | [0002-add-two-numbers](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
@@ -73,8 +75,21 @@
 | ------- |
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
