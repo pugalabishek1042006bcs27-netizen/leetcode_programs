@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -43,9 +44,11 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [2942-find-words-containing-character](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
