@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
 | ------- |
