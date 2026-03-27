@@ -11,6 +11,7 @@
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2942-find-words-containing-character) |
@@ -53,6 +54,7 @@
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
@@ -61,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2942-find-words-containing-character) |
 ## Sorting
