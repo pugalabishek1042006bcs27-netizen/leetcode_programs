@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
@@ -63,9 +64,15 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
