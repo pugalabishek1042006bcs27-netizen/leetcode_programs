@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
@@ -40,10 +41,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [2942-find-words-containing-character](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2942-find-words-containing-character) |
 ## Sorting
@@ -51,4 +54,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
