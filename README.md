@@ -16,6 +16,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
