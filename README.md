@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
@@ -64,6 +65,7 @@
 | [0008-string-to-integer-atoi](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
