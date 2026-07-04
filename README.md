@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
