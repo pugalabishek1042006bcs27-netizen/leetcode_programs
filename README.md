@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
