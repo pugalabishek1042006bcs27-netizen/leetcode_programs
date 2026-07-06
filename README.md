@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -96,6 +99,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -113,4 +117,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
