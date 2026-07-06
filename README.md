@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
