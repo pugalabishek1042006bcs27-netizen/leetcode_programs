@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1052-grumpy-bookstore-owner) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -130,4 +131,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1052-grumpy-bookstore-owner) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
