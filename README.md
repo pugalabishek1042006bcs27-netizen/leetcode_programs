@@ -136,5 +136,10 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
