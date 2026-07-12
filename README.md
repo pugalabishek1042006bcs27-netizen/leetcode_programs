@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
@@ -134,5 +135,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
