@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [1052-grumpy-bookstore-owner](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1052-grumpy-bookstore-owner) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
+| [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
 ## Linked List
@@ -84,6 +86,7 @@
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
+| [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
