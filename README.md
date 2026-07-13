@@ -47,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/3668-restore-finishing-order) |
@@ -86,6 +87,7 @@
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
