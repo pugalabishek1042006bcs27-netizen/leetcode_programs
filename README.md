@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
+| [0500-keyboard-row](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
@@ -87,6 +89,7 @@
 | [0290-word-pattern](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
