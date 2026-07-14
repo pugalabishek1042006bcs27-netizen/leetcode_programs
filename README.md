@@ -16,6 +16,7 @@
 | [0500-keyboard-row](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1002-find-common-characters) |
 | [1052-grumpy-bookstore-owner](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1052-grumpy-bookstore-owner) |
