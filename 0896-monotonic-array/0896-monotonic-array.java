@@ -21,7 +21,7 @@ class Solution {
         }
         for(int i=0;i<nums.length-1;i++){
             if(increase){
-                if((nums[i]<=nums[i+1])==increase){
+                if(nums[i]<=nums[i+1]){
                     increase=true;
                 }
                 else{
@@ -29,7 +29,7 @@ class Solution {
                 }
             }
             else{
-                if((nums[i]>=nums[i+1])==decrease){
+                if(nums[i]>=nums[i+1]){
                     decrease=true;
                 }
                 else{
