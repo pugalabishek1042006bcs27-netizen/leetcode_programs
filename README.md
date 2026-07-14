@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@
 | [0088-merge-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/pugalabishek1042006bcs27-netizen/leetcode_programs/tree/master/2418-sort-the-people) |
